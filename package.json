@@ -1,0 +1,12 @@
+{
+  "name": "color-difference",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "keywords": [],
+  "author": "Sam Liebl <stliebl@gmail.com> (https://samliebl.com/)",
+  "license": "MIT"
+}
