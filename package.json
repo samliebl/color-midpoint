@@ -1,12 +1,22 @@
 {
   "name": "color-difference",
   "version": "0.0.1",
-  "description": "",
+  "description": "Get the color midway between two array-formatted rgb or rgba values as a string.",
   "main": "index.js",
   "scripts": {
     "run": "node ."
   },
-  "keywords": [],
+  "keywords": [
+    "color",
+    "color difference",
+    "rgb",
+    "rgba",
+    "color utility",
+    "color utilities",
+    "color palette",
+    "palette",
+    "color mixing"
+  ],
   "author": "Sam Liebl <stliebl@gmail.com> (https://samliebl.com/)",
   "license": "MIT"
 }
