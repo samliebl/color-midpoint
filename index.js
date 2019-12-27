@@ -1,4 +1,4 @@
-function split(color1, color2) {
+function colorMidpoint(color1, color2) {
   var color3 = [];
 
   if ((color1.length < 3) | (color1.length > 4)) {
@@ -26,4 +26,4 @@ function split(color1, color2) {
   }
 }
 
-module.exports = split;
+module.exports = colorMidpoint;

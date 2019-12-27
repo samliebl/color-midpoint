@@ -1,5 +1,5 @@
 {
-  "name": "color-difference",
+  "name": "color-midpoint",
   "version": "0.0.1",
   "description": "Get the color midway between two array-formatted rgb or rgba values as a string.",
   "main": "index.js",
@@ -8,6 +8,7 @@
   },
   "keywords": [
     "color",
+    "color midpoint",
     "color difference",
     "rgb",
     "rgba",
